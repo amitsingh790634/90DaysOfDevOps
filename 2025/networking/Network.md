@@ -51,12 +51,13 @@ Think of the **OSI Model** like a **package delivery system** 📦 – data is s
 6️⃣ **Presentation Layer (Data Formatting & Security)**  
 - Ensures messages are **properly formatted & encrypted**.  
 - **Example:** WhatsApp **encrypts your messages** before sending them.
+![WhatsApp Image 2025-02-13 at 11 45 31 PM](https://github.com/user-attachments/assets/3d35f921-6ec0-45d3-97fa-32e2782caa49)
   
 
 7️⃣ **Application Layer (User Interaction)**  
 - This is the **interface you interact with**.  
 - **Example:** The WhatsApp app, where you type and send messages.  
-![WhatsApp Image 2025-02-13 at 11 45 31 PM](https://github.com/user-attachments/assets/3d35f921-6ec0-45d3-97fa-32e2782caa49)
+
 
 ---
 
